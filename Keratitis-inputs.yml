@@ -1,0 +1,51 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-omop.js
+inputModule2:
+  class: File
+  path: python/tuberculous-keratitis---primary.py
+inputModule3:
+  class: File
+  path: python/keratitis-herpe---primary.py
+inputModule4:
+  class: File
+  path: python/dendritic-keratitis---primary.py
+inputModule5:
+  class: File
+  path: python/keratitis-simplex---primary.py
+inputModule6:
+  class: File
+  path: python/keratitis-keratoconjunctivitis---primary.py
+inputModule7:
+  class: File
+  path: python/interstitial-keratitis---primary.py
+inputModule8:
+  class: File
+  path: python/keratitis---primary.py
+inputModule9:
+  class: File
+  path: python/superficial-keratitis---primary.py
+inputModule10:
+  class: File
+  path: python/keratitis-unspecified---primary.py
+inputModule11:
+  class: File
+  path: python/keratitis-punctate---primary.py
+inputModule12:
+  class: File
+  path: python/specific-keratitis---primary.py
+inputModule13:
+  class: File
+  path: python/other-keratitis---primary.py
+inputModule14:
+  class: File
+  path: python/keratitis---secondary.py
+inputModule15:
+  class: File
+  path: python/keratitis-keratoconjunctivitis---secondary.py
+inputModule16:
+  class: File
+  path: python/keratitis-classified---secondary.py
+inputModule17:
+  class: File
+  path: python/output-cases.py
